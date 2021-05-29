@@ -1,6 +1,6 @@
 `{
   "open":true,
 	"country":"India",
-	"countryCode":"IN",
+	"countryCode":"",
 	"timeZone":"GMT+05:30"
 }`
